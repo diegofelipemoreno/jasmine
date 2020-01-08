@@ -15,5 +15,5 @@ class Investment {
 
     isGood() {
         return  this.roi() > 0;
-     }
+    }
 }
